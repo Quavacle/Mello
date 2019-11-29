@@ -15,6 +15,5 @@ Mello is a Trello clone written for the Firehose Project bootcamp. It is written
 
 ### Screens
 ![image](https://user-images.githubusercontent.com/51137401/69892103-3d04ce00-12bf-11ea-9c8d-41736401b883.png) 
-![image](https://user-images.githubusercontent.com/51137401/69892113-59a10600-12bf-11ea-9aca-34c6718a7248.png)
 
 
